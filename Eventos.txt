@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang= "pt-br">
+<head> 
+    <<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos</title>
+</head>
+<body>
+    <h1> eventos noturnos </h1> 
+   <ul>
+       
+       <li><h2> saga resident evil</h2></li>
+       escolha entre as 6 incriveis historias da grande saga aclamada de jogos resident evil para você e sua equipe se divertir!
+       <br>
+        escolha entre ser um zumbi ou um humano!
+        <br> 
+        atenção humanos!!!!! 
+        <br>
+        um hit dos zumbis te mata ,então sugiro que você se esconda e mire na cabeça dos zumbis  
+       <li> <h2>sexta-feira  13 </h2></li>
+       "Eu ouvi dizer que existem jovens em um lago?" 
+       <br>
+       isto mesmo ,assim como no jogo e nos filmes ,Jason  vai pegar aqueles que estão no local de sua morte como vingança pelo que sofreu
+       <br>
+       um pouco da historia para você:
+       <br> "Voorhees teria se afogado em 24 de junho de 1957 aos 11 anos, em Crystal Lake,
+       <br>
+        por negligência dos monitores que cuidavam das crianças acampadas ao redor do lago."  
+       <br>
+        será Que os adolescentes vão sair desta vivos ou o jason vai matar-los?
+       <li><h2>black</h2></li>
+        "Black acontece na Inguchétia e na Chechênia, na Rússia. O protagonista é um agente de operações Black da CIA, o sargento de primeira classe Jack Kellar . Kellar conta a maior parte da história em primeira pessoa em um interrogatório quatro dias após o início dos eventos.
+
+        Kellar é um membro inadequadamente disciplinado de uma unidade de operações da CIA e um veterano de vários conflitos, incluindo Guatemala, Colômbia, Irã e Croácia. O interrogador desconhecido questiona Kellar sobre uma operação de contrabando de armas e terroristas chamada Sétima Onda (Seventh Wave), que foi responsável por vários ataques terroristas. Kellar é informado de que, a menos que ele coopere, ele e suas ações serão desclassificadas, o que significa que ele será condenado em tribunal conjugal, desonrosamente dispensado e preso pelo resto da vida. Embora inicialmente resistente, Kellar finalmente concorda em contar sua história."
+        <br>
+        entre na vida de Kellar e encare a frota inimiga como se a vida de todo seu esquadrão dependesse disto.
+        <br> 
+        mate ou seja preso . Quem terá a coragem de ser o comandante da operação? 
+       <li><h2> Missão Imposivel </h2> </li>
+       "durante uma missão do afeganistão ,você e sua equipe  ficam presos pelas ruas , sua missão caso aceite chegar até o ponto de extração mais proximo (30 QUilometros) e resgatar os refens pelo caminho ,..."
+       <br> 
+       O time que chegar com mais refens salvos ganha! 
+       <li><h2>mata-pombo modo extremo</h2></li>
+       "aqui está quieto de mais,até de mais" 
+       tivemos grande atiradores de elite que podiam atirar á distancias enormes sem errar o alvo 
+       snipers vs snipers porem ,na escuridão da noite ,qual equipe vai ser a vitoriosa ? 
+   </ul>
+<br>
+   <h1> eventos diurnos</h1>
+   <ul>
+       <li> <h2>captura de ponto</h2> </li>
+       um local para se dominar dois times querendo ele quem vai ganhar?
+       <li><h2> CS:GO</h2> </li>
+       um modo de jogo igual ao grande game de tiro que surgiou em 1999 com o nome de terroristas , plante ou desarme-a ,ataque ou defenda , um exec ou um simples rush vocês decidem 
+        A estrategia é a essencia do jogo
+        <br>
+        "É melhor ser temido a ser amado"(Nicolau Maquiavel) - O Príncipe
+  
+
+       <li><h2> death match FFA</h2></li>
+       um contra todos ,será que vc ganha essa?
+
+       <li> <h2>jogo de armas</h2></li>
+       a cada kill uma arma nova ,para ganhar basta realizar uma rendição depois de ter feito a kill com a glock
+       <li><h2> eliminação</h2></li>
+       jogo onde quem morre fica assim até que n reste mais ninguem 
+       <li><h2>WW2</h2></li>
+       vivencie os tiroteios entre nações 
+
+       <h2>eventos personalizados</h2>
+       Não encontrou em nossa lista um evento ,crie seu esquema de evento e traga para nós ,valores especias!
+    <br> 
+       (observação:pedimos que verifiquem disponibilidade do campo em até 3 semanas antes para mudanças no campo ; os valores são passados para o representante da negociação)
+
+   </ul>
+</body>
