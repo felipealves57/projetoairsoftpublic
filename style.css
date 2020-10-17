@@ -1,0 +1,67 @@
+body{
+  margin: 0;
+  background-image: url("");
+}
+header{
+  background-image: url("capa.jpg");
+  background-position: 0% 25%;
+  overflown: hidden;
+  width: 100%;
+  height: 200px;
+}
+#menu ul{
+  margin: 0;
+  background-color: #000000;
+  list-style: none;
+}
+#menu ul li{
+  display: inline;
+}
+#menu ul li a{
+  padding: 10px 80px;
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+}
+#menu ul li a:hover{
+  color: teal;
+}
+#logo_toxica {
+  position: absolute; 
+  left: -30px; /* posiciona para a esquerda */ 
+  top:  530px; /* posiciona  para baixo */
+}
+#logo_toxica2 {
+  position: absolute; 
+  left: 720px; /* posiciona para a esquerda */ 
+  top:  530px; /* posiciona  para baixo */
+}
+#unidade_statere{
+  position: absolute; 
+  left: 810px; /* posiciona para a esquerda */ 
+  top:  555px; /* posiciona  para baixo */
+}
+#unidade_ali{
+  position: absolute; 
+  left: 60px; /* posiciona para a esquerda */ 
+  top:  555px; /* posiciona  para baixo */
+}
+#mapa_unidade1{
+  position: absolute; 
+  left: 10px; /* posiciona para a esquerda */ 
+  top:  600px; /* posiciona  para baixo */
+}
+#mapa_unidade2{
+  position: absolute; 
+  left: 750px; /* posiciona para a esquerda */ 
+  top:  600px; /* posiciona  para baixo */
+}
+#aulas{
+  color: #fff;
+  font-size: 20px;
+  width: 1350px;
+  text-align: center;
+}
+#fundo{
+  background-color: #fff;
+}
